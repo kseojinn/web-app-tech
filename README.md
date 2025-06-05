@@ -24,8 +24,8 @@
 <h2>🛠️ 기술 스택</h2>
 <ul>
     <li><strong>Backend</strong>: Node.js, Express.js, Worker Threads</li>
-    <li><strong>Database</strong>: MySQL 8.0+</li>
-    <li><strong>Frontend</strong>: HTML5, CSS3, JavaScript ES6+, Chart.js</li>
+    <li><strong>Database</strong>: MySQL</li>
+    <li><strong>Frontend</strong>: HTML5, JavaScript ES6+, Chart.js</li>
     <li><strong>File Processing</strong>: Multer, Custom Matrix Parser</li>
 </ul>
 
@@ -33,8 +33,8 @@
 
 <h3>1. 사전 요구사항</h3>
 <ul>
-    <li>Node.js 18+ 설치</li>
-    <li>MySQL 8.0+ 설치 및 실행</li>
+    <li>Node.js 설치</li>
+    <li>MySQL 설치 및 실행</li>
 </ul>
 
 <h3>2. 프로젝트 클론</h3>
