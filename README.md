@@ -158,7 +158,7 @@ netstat -an | findstr :3000
 PORT=3001</code></pre>
 
 <h2>👨‍💻 개발자</h2>
-<p><strong>kseojinn</strong></p>
+<p><strong>Seojin Kang</strong></p>
 <ul>
     <li>📧 Email: kseojin0205@sungkyul.ac.kr</li>
     <li>🐙 GitHub: <a href="https://github.com/kseojinn">https://github.com/kseojinn</a></li>
