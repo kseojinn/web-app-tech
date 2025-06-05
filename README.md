@@ -113,15 +113,6 @@ core5	803	786	929	958	329</code></pre>
 ├── largeDataset.txt       # 테스트 데이터 (대)
 └── hugeDataset.txt        # 테스트 데이터 (초대형)</code></pre>
 
-<h2>🔧 API 엔드포인트</h2>
-<ul>
-    <li><code>GET /</code> - 메인 페이지</li>
-    <li><code>POST /upload</code> - 파일 업로드 및 분석</li>
-    <li><code>GET /analysis</code> - 분석 이력 조회</li>
-    <li><code>GET /analysis/:id</code> - 특정 분석 결과 조회</li>
-    <li><code>GET /status</code> - 서버 상태 확인</li>
-</ul>
-
 <h2>🚀 성능 특징</h2>
 <ul>
     <li><strong>멀티스레딩</strong>: Worker Threads로 CPU 집약적 작업 분리</li>
