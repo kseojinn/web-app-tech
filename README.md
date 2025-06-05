@@ -164,9 +164,6 @@ PORT=3001</code></pre>
     <li>🐙 GitHub: <a href="https://github.com/kseojinn">https://github.com/kseojinn</a></li>
 </ul>
 
-<h2>📄 라이선스</h2>
-<p>MIT License</p>
-
 <hr>
 
 </body>
