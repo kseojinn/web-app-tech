@@ -160,27 +160,14 @@ PORT=3001</code></pre>
 <h2>👨‍💻 개발자</h2>
 <p><strong>kseojinn</strong></p>
 <ul>
-    <li>📧 Email: [your-email]</li>
+    <li>📧 Email: kseojin0205@sungkyul.ac.kr</li>
     <li>🐙 GitHub: <a href="https://github.com/kseojinn">https://github.com/kseojinn</a></li>
 </ul>
 
 <h2>📄 라이선스</h2>
 <p>MIT License</p>
 
-<h2>🤝 기여하기</h2>
-<ol>
-    <li>Fork the Project</li>
-    <li>Create your Feature Branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
-    <li>Commit your Changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
-    <li>Push to the Branch (<code>git push origin feature/AmazingFeature</code>)</li>
-    <li>Open a Pull Request</li>
-</ol>
-
 <hr>
-
-<p align="center">
-    <strong>⭐ 이 프로젝트가 도움이 되셨다면 스타를 눌러주세요! ⭐</strong>
-</p>
 
 </body>
 </html>
