@@ -45,7 +45,7 @@ cd enhanced-nodejs-profiler</code></pre>
 <pre><code>npm install</code></pre>
 
 <h3>4. 환경 변수 설정</h3>
-<p><code>.env</code> 파일을 생성하고 다음 내용을 입력하세요:</p>
+<p><code>.env</code> 파일을 설정하고 PASSWORD를 수정해주세요.</p>
 <pre><code>DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=******
