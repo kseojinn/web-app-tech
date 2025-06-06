@@ -97,6 +97,7 @@ core5	803	786	929	958	329</code></pre>
 
 <h2>📁 프로젝트 구조</h2>
 <pre><code>enhanced-nodejs-profiler/
+├── .env
 ├── server.js              # 메인 서버 파일
 ├── package.json           # 프로젝트 설정
 ├── public/
