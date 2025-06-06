@@ -44,16 +44,7 @@ cd enhanced-nodejs-profiler</code></pre>
 <h3>3. 의존성 설치</h3>
 <pre><code>npm install</code></pre>
 
-<h3>4. 환경 변수 설정</h3>
-<p><code>.env</code> 파일을 설정하고 PASSWORD를 수정해주세요.</p>
-<pre><code>DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=ratsaise
-DB_NAME=javaweb_profiler
-PORT=3000
-NODE_ENV=development</code></pre>
-
-<h3>5. 데이터베이스 생성</h3>
+<h3>4. 데이터베이스 생성</h3>
 <pre><code>mysql -u root -p
 CREATE DATABASE javaweb_profiler;
 EXIT;</code></pre>
