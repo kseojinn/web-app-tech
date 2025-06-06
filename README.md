@@ -45,7 +45,7 @@ cd web-app-tech</code></pre>
 <pre><code>npm install</code></pre>
 
 <h3>4. DB password 변경</h3>
-<pre><code>.env 파일에서 자신의 DB password로 변경하세요.</code></pre>
+<p>.env 파일에서 자신의 DB password로 변경하세요.</p>
 
 <h3>5. 데이터베이스 생성</h3>
 <pre><code>mysql -u root -p
