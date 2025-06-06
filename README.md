@@ -39,7 +39,7 @@
 
 <h3>2. 프로젝트 클론</h3>
 <pre><code>git clone https://github.com/kseojinn/web-app-tech.git
-cd enhanced-nodejs-profiler</code></pre>
+cd web-app-tech</code></pre>
 
 <h3>3. 의존성 설치</h3>
 <pre><code>npm install</code></pre>
