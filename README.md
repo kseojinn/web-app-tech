@@ -44,7 +44,10 @@ cd web-app-tech</code></pre>
 <h3>3. 의존성 설치</h3>
 <pre><code>npm install</code></pre>
 
-<h3>4. 데이터베이스 생성</h3>
+<h3>4. DB password 변경</h3>
+<pre><code>.env 파일에서 자신의 DB password로 변경하세요.</code></pre>
+
+<h3>5. 데이터베이스 생성</h3>
 <pre><code>mysql -u root -p
 CREATE DATABASE javaweb_profiler;
 EXIT;</code></pre>
