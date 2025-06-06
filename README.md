@@ -48,7 +48,7 @@ cd enhanced-nodejs-profiler</code></pre>
 <p><code>.env</code> 파일을 설정하고 PASSWORD를 수정해주세요.</p>
 <pre><code>DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=******
+DB_PASSWORD=ratsaise
 DB_NAME=javaweb_profiler
 PORT=3000
 NODE_ENV=development</code></pre>
