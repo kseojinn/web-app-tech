@@ -50,6 +50,7 @@ cd web-app-tech</code></pre>
 <h3>5. 데이터베이스 생성</h3>
 <pre><code>mysql -u root -p
 CREATE DATABASE javaweb_profiler;
+USE javaweb_profiler;
 EXIT;</code></pre>
 
 <h3>6. 서버 실행</h3>
