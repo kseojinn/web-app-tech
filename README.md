@@ -127,23 +127,6 @@ core5	803	786	929	958	329</code></pre>
     <li><code>hugeDataset.txt</code> - 100,000개 데이터 포인트</li>
 </ul>
 
-<h2>🐛 문제 해결</h2>
-
-<h3>MySQL 연결 오류</h3>
-<pre><code># MySQL 서비스 확인
-net start MySQL80
-
-# 데이터베이스 존재 확인
-mysql -u root -p
-SHOW DATABASES;</code></pre>
-
-<h3>포트 충돌</h3>
-<pre><code># 포트 사용 확인
-netstat -an | findstr :3000
-
-# .env 파일에서 포트 변경
-PORT=3001</code></pre>
-
 <h2>👨‍💻 개발자</h2>
 <p><strong>Seojin Kang</strong></p>
 <ul>
